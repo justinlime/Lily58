@@ -1,0 +1,10 @@
+* Lily58
+
+This is a personal copy of [[https://github.com/vial-kb/vial-qmk][vial-qmk's]] layout. 
+
+To use it, just drop the folder to the above repo's keyboards directory, 
+and build it by passing it to the -kb flag in the QMK command:
+
+#+begin_src bash
+-kb lily58justinlime
+#+end_src
